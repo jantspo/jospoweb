@@ -2,7 +2,7 @@ html{
 	height:100%;
 }
 body {
-	background: url(beachop.JPG) no-repeat;
+	background: url(../images/beachop.JPG) no-repeat;
 	background-size:100% 110%;
 	height: 100%;
 	width: 100%;
@@ -105,7 +105,7 @@ footer ul#social_links li a{
 	text-indent: -9999px;
 	height: 48px;
 	width: 48px;
-	background-image: url(icons.jpg);
+	background-image: url(../images/icons.jpg);
 }
 footer ul#social_links li:first-child a:hover{
 	background-position: -1468px -30px;
